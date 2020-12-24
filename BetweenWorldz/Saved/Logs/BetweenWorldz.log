@@ -2114,3 +2114,405 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.24-05.12.51:293][644]LogEditorTransaction: Undo Create Actors
 [2020.12.24-05.12.51:414][649]LogConcert: Display: Synced activity '424' produced by endpoint '2032400442F7709C1CD9C6B91E2AB6EC': shadow deleted ExponentialHeightFog_1 in /Game/Maps/Level2.
 [2020.12.24-05.14.05:933][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.12.24-05.16.48:445][384]LogConcert: Display: Disconnected from Concert session 'BetweenWorldz' (Id: EB8E2D9E4E4594F3C4430DB8253BDF61, Owner: reaperofdragons).
+[2020.12.24-05.16.48:445][384]SourceControl: Source control is disabled
+[2020.12.24-05.16.48:462][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/Engine/' was aborted.
+[2020.12.24-05.16.48:462][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/BetweenWorldz/' was aborted.
+[2020.12.24-05.16.48:462][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/Paper2D/' was aborted.
+[2020.12.24-05.16.48:463][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/AnimationSharing/' was aborted.
+[2020.12.24-05.16.48:463][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/DatasmithContent/' was aborted.
+[2020.12.24-05.16.48:463][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/GeometryMode/' was aborted.
+[2020.12.24-05.16.48:463][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/SpeedTreeImporter/' was aborted.
+[2020.12.24-05.16.48:463][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/ChaosClothEditor/' was aborted.
+[2020.12.24-05.16.48:463][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/ChaosNiagara/' was aborted.
+[2020.12.24-05.16.48:463][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/ChaosSolverPlugin/' was aborted.
+[2020.12.24-05.16.48:463][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/GeometryCollectionPlugin/' was aborted.
+[2020.12.24-05.16.48:463][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/GeometryProcessing/' was aborted.
+[2020.12.24-05.16.48:463][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/MotoSynth/' was aborted.
+[2020.12.24-05.16.48:463][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/Niagara/' was aborted.
+[2020.12.24-05.16.48:463][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/MagicLeap/' was aborted.
+[2020.12.24-05.16.48:463][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/MagicLeapPassableWorld/' was aborted.
+[2020.12.24-05.16.48:464][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/MediaCompositing/' was aborted.
+[2020.12.24-05.16.48:464][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/AudioSynesthesia/' was aborted.
+[2020.12.24-05.16.48:464][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/PostSplashScreen/' was aborted.
+[2020.12.24-05.16.48:464][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/Synthesis/' was aborted.
+[2020.12.24-05.16.48:464][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/MultiUserTakes/' was aborted.
+[2020.12.24-05.16.48:464][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/Takes/' was aborted.
+[2020.12.24-05.16.48:464][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/OculusVR/' was aborted.
+[2020.12.24-05.16.48:464][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/SteamVR/' was aborted.
+[2020.12.24-05.16.48:464][384]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/ConcertSyncClient/' was aborted.
+[2020.12.24-05.16.48:469][384]Cmd: MAP LOAD FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.24-05.16.48:498][384]LightingResults: New page: Lighting Build
+[2020.12.24-05.16.48:499][384]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2020.12.24-05.16.48:500][384]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.12.24-05.16.48:500][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-05.16.48:500][384]MapCheck: New page: Map Check
+[2020.12.24-05.16.48:520][384]LightingResults: New page: Lighting Build
+[2020.12.24-05.16.48:538][384]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.24-05.16.48:543][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.12.24-05.16.48:767][384]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_9'.
+[2020.12.24-05.16.48:768][384]LogAIModule: Creating AISystem for world Untitled_9
+[2020.12.24-05.16.48:890][384]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.24-05.16.48:913][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.12.24-05.16.48:921][384]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.24-05.16.48:921][384]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.157ms to complete.
+[2020.12.24-05.16.48:922][384]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.452
+[2020.12.24-05.16.48:923][384]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/FirstPersonBP/Blueprints/FirstPersonCharacter
+[2020.12.24-05.16.48:963][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.12.24-05.16.49:017][384]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:InpActEvt_ResetVR_K2Node_InputActionEvent_2' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.16.49:017][384]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:InpActEvt_Jump_K2Node_InputActionEvent_0' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.16.49:018][384]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:VR_Marker_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.16.49:018][384]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:Sphere_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.16.49:018][384]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:EventGraph.K2Node_CreateWidget_0' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.16.49:018][384]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:EventGraph.K2Node_CallFunction_0' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.16.49:018][384]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:EventGraph.K2Node_CallFunction_1' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.16.49:018][384]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:EventGraph.EdGraphNode_Comment_0' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.16.49:018][384]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:InpActEvt_Jump_K2Node_InputActionEvent_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.16.49:018][384]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:InpActEvt_ResetVR_K2Node_InputActionEvent_2' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.16.49:018][384]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__FirstPersonCharacter_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.16.49:335][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.12.24-05.16.49:372][384]LogConcert: Display: Shutdown Concert session 'BetweenWorldz' (Id: EB8E2D9E4E4594F3C4430DB8253BDF61, Owner: reaperofdragons).
+[2020.12.24-05.16.50:071][386]LogConcert: Display: Server THOR lost.
+[2020.12.24-05.16.50:086][387]LogConcert: Display: Server THOR discovered.
+[2020.12.24-05.17.26:520][831]LogConcert: [Pending] Archiving Session...
+[2020.12.24-05.17.31:277][284]LogConcert: Display: Server THOR lost.
+[2020.12.24-05.17.32:278][387]LogConcert: [Success] Archived Session 'BetweenWorldz' as 'BetweenWorldz.2020.12.24-05.17.10 day3 complete
+[2020.12.24-05.17.32:278][387]LogConcert: Display: Server THOR discovered.
+[2020.12.24-05.17.34:399][591]LogConcert: [Pending] Joining Session...
+[2020.12.24-05.17.34:399][591]LogConcert: [Pending] Joining Session... - Validating Workspace...
+[2020.12.24-05.17.34:724][595]LogConcert: [Pending] Joining Session... - Attempting Remote Connection...
+[2020.12.24-05.17.34:813][596]SourceControl: Source control is disabled
+[2020.12.24-05.17.34:813][596]SourceControl: Source control is disabled
+[2020.12.24-05.17.34:813][596]LogConcert: Display: Initialized Concert session 'BetweenWorldz' (Id: EB8E2D9E4E4594F3C4430DB8253BDF61, Owner: reaperofdragons).
+[2020.12.24-05.17.34:813][596]LogConcert: Display: Connecting to Concert session 'BetweenWorldz' (Id: EB8E2D9E4E4594F3C4430DB8253BDF61, Owner: reaperofdragons).
+[2020.12.24-05.17.34:946][598]LogConcert: Display: Connected to Concert session 'BetweenWorldz' (Id: EB8E2D9E4E4594F3C4430DB8253BDF61, Owner: reaperofdragons).
+[2020.12.24-05.17.34:948][599]LogConcert: [Success] Joined Session 'BetweenWorldz'
+[2020.12.24-05.17.34:992][600]LogConcert: Display: Synced activity '425' produced by endpoint '2032400442F7709C1CD9C6B91E2AB6EC': shadow left the session.
+[2020.12.24-05.17.34:992][600]LogConcert: Display: Synced activity '426' produced by endpoint 'A0C12FB349A22083996C91BFA3F095B5': shadow joined the session.
+[2020.12.24-05.17.35:314][600]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/FirstPersonBP/Blueprints/FirstPersonCharacter
+[2020.12.24-05.17.35:340][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.12.24-05.17.35:395][600]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:InpActEvt_Jump_K2Node_InputActionEvent_2' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.17.35:395][600]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:InpActEvt_ResetVR_K2Node_InputActionEvent_0' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.17.35:395][600]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:VR_Marker_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.17.35:395][600]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:Sphere_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.17.35:396][600]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:InpActEvt_ResetVR_K2Node_InputActionEvent_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.17.35:396][600]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:InpActEvt_Jump_K2Node_InputActionEvent_2' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.17.35:396][600]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__FirstPersonCharacter_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.17.35:701][600]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.12.24-05.19.59:329][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.12.24-05.20.05:726][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.12.24-05.20.19:602][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.12.24-05.20.19:685][939]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/level1.level1
+[2020.12.24-05.20.19:685][939]Cmd: MAP LOAD FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.24-05.20.19:685][939]LightingResults: New page: Lighting Build
+[2020.12.24-05.20.19:685][939]LoadErrors: New page: Loading map: level1.umap
+[2020.12.24-05.20.19:686][939]LogWorld: UWorld::CleanupWorld for Untitled_9, bSessionEnded=true, bCleanupResources=true
+[2020.12.24-05.20.19:686][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-05.20.19:686][939]MapCheck: New page: Map Check
+[2020.12.24-05.20.19:686][939]LightingResults: New page: Lighting Build
+[2020.12.24-05.20.19:702][939]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.24-05.20.19:716][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.12.24-05.20.19:716][939]LogAudio: Display: Audio Device (ID: 1) registered with world 'level1'.
+[2020.12.24-05.20.19:854][939]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.24-05.20.19:855][939]LogAIModule: Creating AISystem for world level1
+[2020.12.24-05.20.19:877][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.12.24-05.20.19:896][939]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.24-05.20.19:896][939]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.566ms to complete.
+[2020.12.24-05.20.19:896][939]LogFileHelpers: Loading map 'level1' took 0.212
+[2020.12.24-05.20.26:654][ 68]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.24-05.20.26:913][ 68]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2020.12.24-05.20.27:037][ 68]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2020.12.24-05.20.27:069][ 68]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2020.12.24-05.20.28:184][145]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.24-05.20.33:927][246]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Level2.Level2:PersistentLevel.AbstractNavData-Default'
+[2020.12.24-05.20.35:181][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.12.24-05.20.42:274][270]LogSlate: Window 'Save Content' being destroyed
+[2020.12.24-05.20.45:579][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.12.24-05.20.48:348][333]LogSlate: Window 'Save Content' being destroyed
+[2020.12.24-05.20.48:371][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2" FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.24-05.20.48:403][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.12.24-05.20.48:493][333]LogSavePackage: Moving '../../../../test/BetweenWorldz/BetweenWorldz/Saved/Level2296748834BCE084235B543AE28F34CC4.tmp' to '../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/Level2.umap'
+[2020.12.24-05.20.48:578][333]LogFileHelpers: Saving map 'Level2' took 0.208
+[2020.12.24-05.20.48:620][333]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level2.Level2
+[2020.12.24-05.20.48:620][333]Cmd: MAP LOAD FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.24-05.20.48:620][333]LightingResults: New page: Lighting Build
+[2020.12.24-05.20.48:621][333]LoadErrors: New page: Loading map: Level2.umap
+[2020.12.24-05.20.48:623][333]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2020.12.24-05.20.48:624][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-05.20.48:624][333]MapCheck: New page: Map Check
+[2020.12.24-05.20.48:624][333]LightingResults: New page: Lighting Build
+[2020.12.24-05.20.48:645][333]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.24-05.20.48:652][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.12.24-05.20.48:652][333]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2020.12.24-05.20.48:762][333]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.24-05.20.48:762][333]LogAIModule: Creating AISystem for world Level2
+[2020.12.24-05.20.48:786][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.12.24-05.20.48:806][333]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.24-05.20.48:807][333]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2020.12.24-05.20.48:807][333]LogFileHelpers: Loading map 'Level2' took 0.186
+[2020.12.24-05.20.48:841][333]AssetCheck: New page: Asset Save: Level2
+[2020.12.24-05.20.48:841][333]LogContentValidation: Display: Validating World /Game/Maps/Level2.Level2
+[2020.12.24-05.20.49:090][337]LogConcert: Display: Synced activity '427' produced by endpoint 'A0C12FB349A22083996C91BFA3F095B5': shadow saved package /Game/Maps/Level2.
+[2020.12.24-05.20.58:166][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.12.24-05.20.58:260][539]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level3.Level3
+[2020.12.24-05.20.58:261][539]Cmd: MAP LOAD FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.24-05.20.58:261][539]LightingResults: New page: Lighting Build
+[2020.12.24-05.20.58:261][539]LoadErrors: New page: Loading map: Level3.umap
+[2020.12.24-05.20.58:262][539]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.12.24-05.20.58:262][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-05.20.58:262][539]MapCheck: New page: Map Check
+[2020.12.24-05.20.58:262][539]LightingResults: New page: Lighting Build
+[2020.12.24-05.20.58:280][539]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.24-05.20.58:284][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.12.24-05.20.58:285][539]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2020.12.24-05.20.58:365][539]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.24-05.20.58:365][539]LogAIModule: Creating AISystem for world Level3
+[2020.12.24-05.20.58:387][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.12.24-05.20.58:405][539]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.24-05.20.58:405][539]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2020.12.24-05.20.58:405][539]LogFileHelpers: Loading map 'Level3' took 0.144
+[2020.12.24-05.22.16:279][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.12.24-05.22.16:345][448]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level2.Level2
+[2020.12.24-05.22.16:346][448]Cmd: MAP LOAD FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.24-05.22.16:346][448]LightingResults: New page: Lighting Build
+[2020.12.24-05.22.16:346][448]LoadErrors: New page: Loading map: Level2.umap
+[2020.12.24-05.22.16:380][448]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2020.12.24-05.22.16:380][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-05.22.16:380][448]MapCheck: New page: Map Check
+[2020.12.24-05.22.16:380][448]LightingResults: New page: Lighting Build
+[2020.12.24-05.22.16:397][448]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.24-05.22.16:401][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.12.24-05.22.16:401][448]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2020.12.24-05.22.16:510][448]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.24-05.22.16:510][448]LogAIModule: Creating AISystem for world Level2
+[2020.12.24-05.22.16:534][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.12.24-05.22.16:556][448]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.24-05.22.16:556][448]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2020.12.24-05.22.16:556][448]LogFileHelpers: Loading map 'Level2' took 0.211
+[2020.12.24-05.22.21:441][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.12.24-05.22.26:610][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.12.24-05.22.26:739][777]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/level1.level1
+[2020.12.24-05.22.26:739][777]Cmd: MAP LOAD FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.24-05.22.26:739][777]LightingResults: New page: Lighting Build
+[2020.12.24-05.22.26:739][777]LoadErrors: New page: Loading map: level1.umap
+[2020.12.24-05.22.26:740][777]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2020.12.24-05.22.26:740][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-05.22.26:740][777]MapCheck: New page: Map Check
+[2020.12.24-05.22.26:740][777]LightingResults: New page: Lighting Build
+[2020.12.24-05.22.26:759][777]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.24-05.22.26:765][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.12.24-05.22.26:766][777]LogAudio: Display: Audio Device (ID: 1) registered with world 'level1'.
+[2020.12.24-05.22.26:900][777]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.24-05.22.26:900][777]LogAIModule: Creating AISystem for world level1
+[2020.12.24-05.22.26:923][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.12.24-05.22.26:941][777]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.24-05.22.26:941][777]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2020.12.24-05.22.26:941][777]LogFileHelpers: Loading map 'level1' took 0.203
+[2020.12.24-05.40.24:545][482]LogConcert: Display: User 'bembu' (Endpoint: 9F65070A4AF7CCA64368B094B471293F) joined Concert session 'BetweenWorldz' (Id: EB8E2D9E4E4594F3C4430DB8253BDF61, Owner: reaperofdragons).
+[2020.12.24-05.40.24:547][482]LogConcert: Display: Synced activity '428' produced by endpoint '9F65070A4AF7CCA64368B094B471293F': Sphe joined the session.
+[2020.12.24-05.43.11:740][980]LogConcert: Display: User 'bembu' (Endpoint: 9F65070A4AF7CCA64368B094B471293F) left Concert session 'BetweenWorldz' (Id: EB8E2D9E4E4594F3C4430DB8253BDF61, Owner: reaperofdragons).
+[2020.12.24-05.43.11:937][980]LogConcert: Display: Disconnected from Concert session 'BetweenWorldz' (Id: EB8E2D9E4E4594F3C4430DB8253BDF61, Owner: reaperofdragons).
+[2020.12.24-05.43.12:088][980]SourceControl: Source control is disabled
+[2020.12.24-05.43.12:452][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/Engine/' was aborted.
+[2020.12.24-05.43.12:452][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/BetweenWorldz/' was aborted.
+[2020.12.24-05.43.12:452][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/Paper2D/' was aborted.
+[2020.12.24-05.43.12:452][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/AnimationSharing/' was aborted.
+[2020.12.24-05.43.12:453][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/DatasmithContent/' was aborted.
+[2020.12.24-05.43.12:453][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/GeometryMode/' was aborted.
+[2020.12.24-05.43.12:453][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/SpeedTreeImporter/' was aborted.
+[2020.12.24-05.43.12:453][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/ChaosClothEditor/' was aborted.
+[2020.12.24-05.43.12:453][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/ChaosNiagara/' was aborted.
+[2020.12.24-05.43.12:453][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/ChaosSolverPlugin/' was aborted.
+[2020.12.24-05.43.12:453][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/GeometryCollectionPlugin/' was aborted.
+[2020.12.24-05.43.12:454][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/GeometryProcessing/' was aborted.
+[2020.12.24-05.43.12:454][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/MotoSynth/' was aborted.
+[2020.12.24-05.43.12:454][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/Niagara/' was aborted.
+[2020.12.24-05.43.12:454][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/MagicLeap/' was aborted.
+[2020.12.24-05.43.12:454][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/MagicLeapPassableWorld/' was aborted.
+[2020.12.24-05.43.12:454][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/MediaCompositing/' was aborted.
+[2020.12.24-05.43.12:455][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/AudioSynesthesia/' was aborted.
+[2020.12.24-05.43.12:455][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/PostSplashScreen/' was aborted.
+[2020.12.24-05.43.12:455][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/Synthesis/' was aborted.
+[2020.12.24-05.43.12:455][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/MultiUserTakes/' was aborted.
+[2020.12.24-05.43.12:455][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/Takes/' was aborted.
+[2020.12.24-05.43.12:455][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/OculusVR/' was aborted.
+[2020.12.24-05.43.12:455][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/SteamVR/' was aborted.
+[2020.12.24-05.43.12:455][980]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/ConcertSyncClient/' was aborted.
+[2020.12.24-05.43.12:492][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.12.24-05.43.12:515][980]LightingResults: New page: Lighting Build
+[2020.12.24-05.43.12:535][980]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2020.12.24-05.43.12:535][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-05.43.12:535][980]MapCheck: New page: Map Check
+[2020.12.24-05.43.12:536][980]LightingResults: New page: Lighting Build
+[2020.12.24-05.43.12:607][980]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.24-05.43.12:648][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.12.24-05.43.12:691][980]LogAIModule: Creating AISystem for world Untitled
+[2020.12.24-05.43.12:710][980]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2020.12.24-05.43.12:898][980]LoadErrors: New page: New Map
+[2020.12.24-05.43.12:901][980]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/FirstPersonBP/Blueprints/FirstPersonCharacter
+[2020.12.24-05.43.12:962][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.12.24-05.43.13:062][980]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:InpActEvt_ResetVR_K2Node_InputActionEvent_2' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.43.13:063][980]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:InpActEvt_Jump_K2Node_InputActionEvent_0' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.43.13:063][980]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:VR_Marker_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.43.13:063][980]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:Sphere_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.43.13:063][980]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:EventGraph.K2Node_CreateWidget_0' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.43.13:063][980]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:EventGraph.K2Node_CallFunction_0' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.43.13:063][980]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:EventGraph.K2Node_CallFunction_1' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.43.13:063][980]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:EventGraph.EdGraphNode_Comment_0' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.43.13:063][980]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:InpActEvt_Jump_K2Node_InputActionEvent_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.43.13:063][980]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:InpActEvt_ResetVR_K2Node_InputActionEvent_2' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.43.13:063][980]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__FirstPersonCharacter_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-05.43.15:744][980]LogUObjectHash: Compacting FUObjectHashTables data took   9.09ms
+[2020.12.24-05.43.16:336][980]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/level1.level1
+[2020.12.24-05.43.16:336][980]Cmd: MAP LOAD FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.24-05.43.16:336][980]LightingResults: New page: Lighting Build
+[2020.12.24-05.43.16:336][980]LoadErrors: New page: Loading map: level1.umap
+[2020.12.24-05.43.16:336][980]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.24-05.43.16:336][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-05.43.16:336][980]MapCheck: New page: Map Check
+[2020.12.24-05.43.16:336][980]LightingResults: New page: Lighting Build
+[2020.12.24-05.43.16:355][980]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.24-05.43.16:359][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.12.24-05.43.16:360][980]LogAudio: Display: Audio Device (ID: 1) registered with world 'level1'.
+[2020.12.24-05.43.16:687][980]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.24-05.43.16:687][980]LogAIModule: Creating AISystem for world level1
+[2020.12.24-05.43.16:714][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.12.24-05.43.16:747][980]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.24-05.43.16:747][980]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.11ms to complete.
+[2020.12.24-05.43.16:747][980]LogFileHelpers: Loading map 'level1' took 0.412
+[2020.12.24-05.43.17:072][980]LogConcert: Display: Shutdown Concert session 'BetweenWorldz' (Id: EB8E2D9E4E4594F3C4430DB8253BDF61, Owner: reaperofdragons).
+[2020.12.24-05.43.17:761][981]LogConcert: Display: Server THOR lost.
+[2020.12.24-06.11.05:299][ 83]LogConcert: [Pending] Launching Unreal Multi-User Server...
+[2020.12.24-06.11.05:401][ 83]LogConcert: [Success] Launched Unreal Multi-User Server
+[2020.12.24-06.11.32:231][622]LogConcert: [Pending] Launching Unreal Multi-User Server...
+[2020.12.24-06.11.32:263][622]LogConcert: [Success] Launched Unreal Multi-User Server
+[2020.12.24-06.11.43:237][559]LogConcert: Display: Server THOR discovered.
+[2020.12.24-06.11.59:775][193]LogConcert: [Pending] Joining Session...
+[2020.12.24-06.11.59:775][193]LogConcert: [Pending] Joining Session... - Validating Workspace...
+[2020.12.24-06.12.00:124][198]LogConcert: [Pending] Joining Session... - Attempting Remote Connection...
+[2020.12.24-06.12.00:295][199]SourceControl: Source control is disabled
+[2020.12.24-06.12.00:295][199]SourceControl: Source control is disabled
+[2020.12.24-06.12.00:295][199]LogConcert: Display: Initialized Concert session 'BetweenWorldz' (Id: EB8E2D9E4E4594F3C4430DB8253BDF61, Owner: reaperofdragons).
+[2020.12.24-06.12.00:295][199]LogConcert: Display: Connecting to Concert session 'BetweenWorldz' (Id: EB8E2D9E4E4594F3C4430DB8253BDF61, Owner: reaperofdragons).
+[2020.12.24-06.12.00:527][206]LogConcert: Display: Connected to Concert session 'BetweenWorldz' (Id: EB8E2D9E4E4594F3C4430DB8253BDF61, Owner: reaperofdragons).
+[2020.12.24-06.12.00:540][207]LogConcert: [Success] Joined Session 'BetweenWorldz'
+[2020.12.24-06.12.00:587][208]LogConcert: Display: Synced activity '429' produced by endpoint 'C07637F34D4B640FB46E21AE19EFE3ED': shadow joined the session.
+[2020.12.24-06.12.01:097][208]LightingResults: New page: Lighting Build
+[2020.12.24-06.12.01:102][208]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2020.12.24-06.12.01:102][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-06.12.01:102][208]MapCheck: New page: Map Check
+[2020.12.24-06.12.01:103][208]LightingResults: New page: Lighting Build
+[2020.12.24-06.12.01:122][208]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.24-06.12.01:128][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.12.24-06.12.01:137][208]LogAIModule: Creating AISystem for world Untitled
+[2020.12.24-06.12.01:155][208]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2020.12.24-06.12.01:237][208]LoadErrors: New page: New Map
+[2020.12.24-06.12.01:240][208]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/FirstPersonBP/Blueprints/FirstPersonCharacter
+[2020.12.24-06.12.01:259][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.12.24-06.12.01:419][208]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:InpActEvt_Jump_K2Node_InputActionEvent_2' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-06.12.01:419][208]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:InpActEvt_ResetVR_K2Node_InputActionEvent_0' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-06.12.01:419][208]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:VR_Marker_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-06.12.01:419][208]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:Sphere_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-06.12.01:419][208]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:InpActEvt_ResetVR_K2Node_InputActionEvent_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-06.12.01:419][208]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:InpActEvt_Jump_K2Node_InputActionEvent_2' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-06.12.01:419][208]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__FirstPersonCharacter_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-06.12.01:705][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.12.24-06.12.01:766][208]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/level1.level1
+[2020.12.24-06.12.01:766][208]Cmd: MAP LOAD FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.24-06.12.01:766][208]LightingResults: New page: Lighting Build
+[2020.12.24-06.12.01:766][208]LoadErrors: New page: Loading map: level1.umap
+[2020.12.24-06.12.01:766][208]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.24-06.12.01:766][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-06.12.01:766][208]MapCheck: New page: Map Check
+[2020.12.24-06.12.01:766][208]LightingResults: New page: Lighting Build
+[2020.12.24-06.12.01:784][208]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.24-06.12.01:788][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.12.24-06.12.01:789][208]LogAudio: Display: Audio Device (ID: 1) registered with world 'level1'.
+[2020.12.24-06.12.01:960][208]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.24-06.12.01:960][208]LogAIModule: Creating AISystem for world level1
+[2020.12.24-06.12.01:983][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.12.24-06.12.02:003][208]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.24-06.12.02:004][208]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.648ms to complete.
+[2020.12.24-06.12.02:004][208]LogFileHelpers: Loading map 'level1' took 0.238
+[2020.12.24-06.13.12:405][269]LogConcert: Display: User 'bembu' (Endpoint: 5D6EB6D74E34613C211441ADC032126C) joined Concert session 'BetweenWorldz' (Id: EB8E2D9E4E4594F3C4430DB8253BDF61, Owner: reaperofdragons).
+[2020.12.24-06.13.12:425][269]LogConcert: Display: Synced activity '430' produced by endpoint '5D6EB6D74E34613C211441ADC032126C': Sphe joined the session.
+[2020.12.24-06.15.43:132][719]LogConcert: Display: User 'bembu' (Endpoint: 5D6EB6D74E34613C211441ADC032126C) left Concert session 'BetweenWorldz' (Id: EB8E2D9E4E4594F3C4430DB8253BDF61, Owner: reaperofdragons).
+[2020.12.24-06.15.43:557][719]LogConcert: Display: Disconnected from Concert session 'BetweenWorldz' (Id: EB8E2D9E4E4594F3C4430DB8253BDF61, Owner: reaperofdragons).
+[2020.12.24-06.15.44:345][719]SourceControl: Source control is disabled
+[2020.12.24-06.15.45:477][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/Engine/' was aborted.
+[2020.12.24-06.15.45:478][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/BetweenWorldz/' was aborted.
+[2020.12.24-06.15.45:478][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/Paper2D/' was aborted.
+[2020.12.24-06.15.45:479][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/AnimationSharing/' was aborted.
+[2020.12.24-06.15.45:479][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/DatasmithContent/' was aborted.
+[2020.12.24-06.15.45:479][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/GeometryMode/' was aborted.
+[2020.12.24-06.15.45:480][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/SpeedTreeImporter/' was aborted.
+[2020.12.24-06.15.45:480][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/ChaosClothEditor/' was aborted.
+[2020.12.24-06.15.45:480][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/ChaosNiagara/' was aborted.
+[2020.12.24-06.15.45:480][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/ChaosSolverPlugin/' was aborted.
+[2020.12.24-06.15.45:481][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/GeometryCollectionPlugin/' was aborted.
+[2020.12.24-06.15.45:482][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/GeometryProcessing/' was aborted.
+[2020.12.24-06.15.45:482][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/MotoSynth/' was aborted.
+[2020.12.24-06.15.45:482][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/Niagara/' was aborted.
+[2020.12.24-06.15.45:482][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/MagicLeap/' was aborted.
+[2020.12.24-06.15.45:483][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/MagicLeapPassableWorld/' was aborted.
+[2020.12.24-06.15.45:483][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/MediaCompositing/' was aborted.
+[2020.12.24-06.15.45:483][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/AudioSynesthesia/' was aborted.
+[2020.12.24-06.15.45:483][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/PostSplashScreen/' was aborted.
+[2020.12.24-06.15.45:484][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/Synthesis/' was aborted.
+[2020.12.24-06.15.45:484][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/MultiUserTakes/' was aborted.
+[2020.12.24-06.15.45:484][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/Takes/' was aborted.
+[2020.12.24-06.15.45:484][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/OculusVR/' was aborted.
+[2020.12.24-06.15.45:485][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/SteamVR/' was aborted.
+[2020.12.24-06.15.45:485][719]LogDirectoryWatcher: A directory notification for 'D:/unreal engine/test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/MultiUser/5DC887924646CA6419C36C8CF2CB44DD/EB8E2D9E4E4594F3C4430DB8253BDF61/Sandbox/ConcertSyncClient/' was aborted.
+[2020.12.24-06.15.47:215][719]LogUObjectHash: Compacting FUObjectHashTables data took  13.05ms
+[2020.12.24-06.15.47:586][719]LightingResults: New page: Lighting Build
+[2020.12.24-06.15.48:346][719]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2020.12.24-06.15.48:577][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-06.15.48:724][719]MapCheck: New page: Map Check
+[2020.12.24-06.15.48:768][719]LightingResults: New page: Lighting Build
+[2020.12.24-06.15.49:030][719]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.24-06.15.49:866][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.12.24-06.15.50:441][719]LogAIModule: Creating AISystem for world Untitled
+[2020.12.24-06.15.51:042][719]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2020.12.24-06.15.53:312][719]LoadErrors: New page: New Map
+[2020.12.24-06.15.53:627][719]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/FirstPersonBP/Blueprints/FirstPersonCharacter
+[2020.12.24-06.15.53:935][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.12.24-06.15.54:665][719]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:InpActEvt_ResetVR_K2Node_InputActionEvent_2' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-06.15.54:665][719]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:InpActEvt_Jump_K2Node_InputActionEvent_0' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-06.15.54:665][719]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:VR_Marker_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-06.15.54:665][719]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter_C:Sphere_GEN_VARIABLE.BodySetup_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-06.15.54:666][719]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:EventGraph.K2Node_CreateWidget_0' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-06.15.54:666][719]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:EventGraph.K2Node_CallFunction_0' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-06.15.54:666][719]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:EventGraph.K2Node_CallFunction_1' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-06.15.54:666][719]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:EventGraph.EdGraphNode_Comment_0' in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-06.15.54:666][719]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:InpActEvt_Jump_K2Node_InputActionEvent_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-06.15.54:666][719]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'FirstPersonCharacter:InpActEvt_ResetVR_K2Node_InputActionEvent_2' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-06.15.54:666][719]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__FirstPersonCharacter_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.12.24-06.15.58:371][719]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.12.24-06.15.59:363][719]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/level1.level1
+[2020.12.24-06.15.59:748][719]Cmd: MAP LOAD FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.24-06.15.59:750][719]LightingResults: New page: Lighting Build
+[2020.12.24-06.15.59:757][719]LoadErrors: New page: Loading map: level1.umap
+[2020.12.24-06.15.59:757][719]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.24-06.15.59:757][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-06.15.59:757][719]MapCheck: New page: Map Check
+[2020.12.24-06.15.59:757][719]LightingResults: New page: Lighting Build
+[2020.12.24-06.15.59:790][719]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.24-06.15.59:816][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.12.24-06.15.59:817][719]LogAudio: Display: Audio Device (ID: 1) registered with world 'level1'.
+[2020.12.24-06.16.00:307][719]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.24-06.16.00:308][719]LogAIModule: Creating AISystem for world level1
+[2020.12.24-06.16.00:355][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.12.24-06.16.00:405][719]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.24-06.16.00:413][719]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 7.548ms to complete.
+[2020.12.24-06.16.00:413][719]LogFileHelpers: Loading map 'level1' took 0.694
+[2020.12.24-06.16.00:785][719]LogConcert: Display: Shutdown Concert session 'BetweenWorldz' (Id: EB8E2D9E4E4594F3C4430DB8253BDF61, Owner: reaperofdragons).
+[2020.12.24-06.16.01:672][720]LogConcert: Display: Server THOR lost.
+[2020.12.24-14.13.03:468][883]LogConcert: [Pending] Launching Unreal Multi-User Server...
+[2020.12.24-14.13.03:577][883]LogConcert: [Success] Launched Unreal Multi-User Server
+[2020.12.24-14.13.20:823][197]LogConcert: Display: Server THOR discovered.
