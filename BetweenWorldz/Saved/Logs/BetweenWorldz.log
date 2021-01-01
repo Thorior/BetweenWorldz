@@ -23487,3 +23487,329 @@ MovingSpaceRock_BP_C.ReceiveBeginPlay
 [2021.01.01-15.44.55:545][430]LogConcert: [Pending] Persisting Session Changes
 [2021.01.01-15.44.55:545][430]LogConcert: [Pending] Persisting Session Changes - See Message Log
 [2021.01.01-15.44.55:545][430]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
+[2021.01.01-19.23.13:379][474]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2021.01.01-19.23.13:945][474]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level3.Level3
+[2021.01.01-19.23.13:945][474]Cmd: MAP LOAD FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.01-19.23.13:946][474]LightingResults: New page: Lighting Build
+[2021.01.01-19.23.13:946][474]LoadErrors: New page: Loading map: Level3.umap
+[2021.01.01-19.23.14:015][474]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.01.01-19.23.14:016][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.01-19.23.14:017][474]MapCheck: New page: Map Check
+[2021.01.01-19.23.14:290][474]LightingResults: New page: Lighting Build
+[2021.01.01-19.23.14:344][474]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.01-19.23.14:472][474]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2021.01.01-19.23.14:499][474]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2021.01.01-19.23.15:013][474]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.01-19.23.15:013][474]LogAIModule: Creating AISystem for world Level3
+[2021.01.01-19.23.15:185][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.01.01-19.23.15:357][474]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.01-19.23.15:358][474]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
+[2021.01.01-19.23.15:358][474]LogFileHelpers: Loading map 'Level3' took 1.413
+[2021.01.01-19.23.17:662][514]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.01-19.23.17:717][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.01-19.23.17:720][514]PIE: New page: PIE session: Level3 (Jan 1, 2021, 9:23:17 AM)
+[2021.01.01-19.23.17:816][514]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level3
+[2021.01.01-19.23.17:828][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012020s)
+[2021.01.01-19.23.17:841][514]LogAIModule: Creating AISystem for world Level3
+[2021.01.01-19.23.17:842][514]LogPlayLevel: PIE: World Init took: (0.013753s)
+[2021.01.01-19.23.17:842][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level3.Level3 to /Game/Maps/UEDPIE_0_Level3.Level3 (0.026129s)
+[2021.01.01-19.23.17:916][514]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2021.01.01-19.23.17:968][514]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2021.01.01-19.23.17:978][514]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.01-19.23.17:978][514]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.01-19.23.17:978][514]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.01-19.23.17:978][514]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.01-19.23.18:034][514]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.01-19.23.18:034][514]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.01-19.23.18:034][514]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.01-19.23.18:034][514]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.01-19.23.18:035][514]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.01-19.23.18:035][514]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.01-19.23.18:420][514]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.01-19.23.18:433][514]LogAudioMixer: Display: 1: FrontRight
+[2021.01.01-19.23.18:433][514]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.01-19.23.18:433][514]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.01-19.23.18:433][514]LogAudioMixer: Display: 4: SideLeft
+[2021.01.01-19.23.18:433][514]LogAudioMixer: Display: 5: SideRight
+[2021.01.01-19.23.18:496][514]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.01-19.23.18:499][514]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.01-19.23.18:499][514]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.01-19.23.18:499][514]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.01-19.23.18:500][514]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.01-19.23.18:500][514]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.01-19.23.18:500][514]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144
+[2021.01.01-19.23.18:565][514]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.01-19.23.18:565][514]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.01-19.23.18:565][514]LogInit: FAudioDevice initialized.
+[2021.01.01-19.23.18:566][514]LogAudio: Display: Audio Device (ID: 70) registered with world 'Level3'.
+[2021.01.01-19.23.18:664][514]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.01-19.23.18:707][514]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2021.01.01-14.23.18
+[2021.01.01-19.23.18:713][514]LogWorld: Bringing up level for play took: 0.047109
+[2021.01.01-19.23.18:714][514]LogOnline: OSS: Creating online subsystem instance for: :Context_125
+[2021.01.01-19.23.18:758][514]PIE: Server logged in
+[2021.01.01-19.23.18:761][514]PIE: Play in editor total start time 1.045 seconds.
+[2021.01.01-19.24.52:150][462]LogCharacterMovement: SmallMob_BP6_13 is stuck and failed to move! Velocity: X=-96.30 Y=12.25 Z=0.00 Location: X=-146.39 Y=10734.33 Z=-910.71 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:18.679 Actor:MovingSpaceRock_BP4 Component:StaticMeshComp BoneName:None (0 other events since notify)
+[2021.01.01-19.24.52:219][464]LogCharacterMovement: SmallMob_BP8_19 is stuck and failed to move! Velocity: X=178.39 Y=-17.72 Z=0.00 Location: X=-214.74 Y=10740.67 Z=-908.37 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:46.072 Actor:MovingSpaceRock_BP4 Component:StaticMeshComp BoneName:None (0 other events since notify)
+[2021.01.01-19.24.52:265][465]LogCharacterMovement: SmallMob_BP7_16 is stuck and failed to move! Velocity: X=96.90 Y=-9.52 Z=0.00 Location: X=-281.42 Y=10754.65 Z=-904.22 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:26.341 Actor:MovingSpaceRock_BP4 Component:StaticMeshComp BoneName:None (0 other events since notify)
+[2021.01.01-19.24.52:352][467]LogCharacterMovement: SmallMob_BP2 is stuck and failed to move! Velocity: X=233.47 Y=-18.15 Z=0.00 Location: X=-356.35 Y=10729.05 Z=-912.23 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:46.648 Actor:MovingSpaceRock_BP4 Component:StaticMeshComp BoneName:None (0 other events since notify)
+[2021.01.01-19.24.52:618][473]LogCharacterMovement: SmallMob_BP is stuck and failed to move! Velocity: X=600.00 Y=-0.96 Z=0.00 Location: X=-641.61 Y=10735.77 Z=-910.09 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:48.010 Actor:MovingSpaceRock_BP4 Component:StaticMeshComp BoneName:None (0 other events since notify)
+[2021.01.01-19.25.12:985][920]LogCharacterMovement: PlayerCharacter_BP_C_0 is stuck and failed to move! Velocity: X=-102.76 Y=-489.33 Z=0.00 Location: X=3361.89 Y=2579.79 Z=1325.41 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:15.917 Actor:MovingSpaceRock_BP3 Component:StaticMeshComp BoneName:None (0 other events since notify)
+[2021.01.01-19.25.48:204][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.01-19.25.48:204][671]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level3
+[2021.01.01-19.25.48:206][671]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2021.01.01-19.25.48:215][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.01-19.25.48:272][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.01-19.25.48:281][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.01-19.25.48:323][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.01-19.25.48:324][671]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.01-19.25.48:325][671]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.01-19.25.48:352][671]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.01.01-19.25.48:386][672]LogConcert: Display: Synced activity '4646' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow discarded changes to package /Game/Maps/UEDPIE_0_Level3.
+[2021.01.01-19.25.48:387][672]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2021.01.01-19.26.02:837][975]LogEditorViewport: Clicking on Actor (LMB): Track_BP_C (Track_BP3)
+[2021.01.01-19.26.05:091][ 18]LogConcert: Display: Synced activity '4647' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow locked Track_BP3 in /Game/Maps/Level3.
+[2021.01.01-19.26.08:813][ 91]LogConcert: Display: Synced activity '4648' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow modified Track_BP3 in /Game/Maps/Level3.
+[2021.01.01-19.26.08:843][ 92]LogConcert: Display: Synced activity '4649' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow unlocked Track_BP3 in /Game/Maps/Level3.
+[2021.01.01-19.26.09:113][ 99]LogEditorViewport: Clicking on Actor (LMB): MovingSpaceRock_BP_C (MovingSpaceRock_BP3)
+[2021.01.01-19.26.11:513][146]LogEditorViewport: Clicking on Actor (LMB): Track_BP_C (Track_BP3)
+[2021.01.01-19.26.12:908][174]LogConcert: Display: Synced activity '4650' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow locked Track_BP3 in /Game/Maps/Level3.
+[2021.01.01-19.26.13:796][191]LogConcert: Display: Synced activity '4651' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow modified Track_BP3 in /Game/Maps/Level3.
+[2021.01.01-19.26.13:797][191]LogConcert: Display: Synced activity '4652' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow unlocked Track_BP3 in /Game/Maps/Level3.
+[2021.01.01-19.26.13:992][195]LogEditorViewport: Clicking on Actor (LMB): MovingSpaceRock_BP_C (MovingSpaceRock_BP3)
+[2021.01.01-19.26.16:218][240]LogEditorViewport: Clicking on Actor (LMB): Track_BP_C (Track_BP3)
+[2021.01.01-19.26.18:219][280]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.01-19.26.18:233][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.01-19.26.18:233][280]PIE: New page: PIE session: Level3 (Jan 1, 2021, 9:26:18 AM)
+[2021.01.01-19.26.18:245][280]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level3
+[2021.01.01-19.26.18:257][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011274s)
+[2021.01.01-19.26.18:258][280]LogAIModule: Creating AISystem for world Level3
+[2021.01.01-19.26.18:259][280]LogPlayLevel: PIE: World Init took: (0.001512s)
+[2021.01.01-19.26.18:259][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level3.Level3 to /Game/Maps/UEDPIE_0_Level3.Level3 (0.013038s)
+[2021.01.01-19.26.18:303][280]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.01.01-19.26.18:467][280]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2021.01.01-19.26.18:467][280]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.01-19.26.18:467][280]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.01-19.26.18:467][280]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.01-19.26.18:467][280]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.01-19.26.18:467][280]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.01-19.26.18:467][280]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.01-19.26.18:467][280]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.01-19.26.18:467][280]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.01-19.26.18:476][280]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.01-19.26.18:476][280]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.01-19.26.18:477][280]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.01-19.26.18:478][280]LogAudioMixer: Display: 1: FrontRight
+[2021.01.01-19.26.18:478][280]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.01-19.26.18:478][280]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.01-19.26.18:478][280]LogAudioMixer: Display: 4: SideLeft
+[2021.01.01-19.26.18:478][280]LogAudioMixer: Display: 5: SideRight
+[2021.01.01-19.26.18:496][280]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.01-19.26.18:497][280]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.01-19.26.18:497][280]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.01-19.26.18:497][280]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.01-19.26.18:497][280]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.01-19.26.18:497][280]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.01-19.26.18:497][280]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144
+[2021.01.01-19.26.18:524][280]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.01-19.26.18:524][280]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.01-19.26.18:524][280]LogInit: FAudioDevice initialized.
+[2021.01.01-19.26.18:524][280]LogAudio: Display: Audio Device (ID: 71) registered with world 'Level3'.
+[2021.01.01-19.26.18:574][280]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.01-19.26.18:633][280]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2021.01.01-14.26.18
+[2021.01.01-19.26.18:638][280]LogWorld: Bringing up level for play took: 0.063334
+[2021.01.01-19.26.18:638][280]LogOnline: OSS: Creating online subsystem instance for: :Context_126
+[2021.01.01-19.26.18:686][280]PIE: Server logged in
+[2021.01.01-19.26.18:687][280]PIE: Play in editor total start time 0.455 seconds.
+[2021.01.01-19.27.58:071][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.01-19.27.58:072][387]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level3
+[2021.01.01-19.27.58:073][387]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2021.01.01-19.27.58:082][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.01-19.27.58:119][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.01-19.27.58:135][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.01-19.27.58:177][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.01-19.27.58:201][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.01-19.27.58:202][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.01-19.27.58:229][387]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.01.01-19.27.58:287][388]LogConcert: Display: Synced activity '4653' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow discarded changes to package /Game/Maps/UEDPIE_0_Level3.
+[2021.01.01-19.27.58:288][388]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2021.01.01-19.28.01:399][441]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2021.01.01-19.28.01:400][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.01-19.28.20:895][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level3" FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/Level3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.01-19.28.21:450][484]LogUObjectHash: Compacting FUObjectHashTables data took  12.22ms
+[2021.01.01-19.28.21:687][484]LogSavePackage: Moving '../../../../test/BetweenWorldz/BetweenWorldz/Saved/Level3C9DD79D64C01636FA6A9B9BB26A4D4D9.tmp' to '../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/Level3.umap'
+[2021.01.01-19.28.21:771][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level3_BuiltData" FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/Level3_BuiltData.uasset" SILENT=true
+[2021.01.01-19.28.21:783][484]LogSavePackage: Moving '../../../../test/BetweenWorldz/BetweenWorldz/Saved/Level3_BuiltDataE7FA2A694746B559E506B5BBDBEDF705.tmp' to '../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/Level3_BuiltData.uasset'
+[2021.01.01-19.28.21:835][484]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.01-19.28.21:835][484]LogContentValidation: Display: Validating World /Game/Maps/Level3.Level3
+[2021.01.01-19.28.21:835][484]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level3_BuiltData.Level3_BuiltData
+[2021.01.01-19.28.22:257][494]LogConcert: Display: Synced activity '4654' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow saved package /Game/Maps/Level3.
+[2021.01.01-19.28.22:320][495]LogConcert: Display: Synced activity '4655' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow saved package /Game/Maps/Level3_BuiltData.
+[2021.01.01-19.29.43:035][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (We_will_rock_you_Rock_1)
+[2021.01.01-19.29.45:759][910]LogEditorViewport: Clicking on Actor (LMB): SmallMob_BP_C (SmallMob_BP21)
+[2021.01.01-19.29.49:089][958]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemies/SmallMob_BP.SmallMob_BP
+[2021.01.01-19.32.49:666][183]LogSavePackage: Moving '../../../../test/BetweenWorldz/BetweenWorldz/Saved/BBE22C54446FDC6C18C915828053663F6BC1CDC440408296FC24FA836EAC42B4.tmp' to '../../../../test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/Temp/BBE22C54446FDC6C18C915828053663F.uasset'
+[2021.01.01-19.32.49:781][183]AssetCheck: New page: Asset Save: EnemyBehavior_BT
+[2021.01.01-19.32.49:781][183]LogContentValidation: Display: Validating BehaviorTree /Game/Blueprints/Enemies/EnemyBehavior_BT.EnemyBehavior_BT
+[2021.01.01-19.32.49:979][188]LogConcert: Display: Synced activity '4656' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow added package /Game/Blueprints/Enemies/EnemyBehavior_BT.
+[2021.01.01-19.32.49:990][188]LogConcert: Display: Synced activity '4657' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow locked /Game/Blueprints/Enemies/EnemyBehavior_BT.
+[2021.01.01-19.33.15:637][535]LogSavePackage: Moving '../../../../test/BetweenWorldz/BetweenWorldz/Saved/6CB415D34C698FE5DFCBED99D5B854BA384EC91D4AB35A948FFE69BEA91EA629.tmp' to '../../../../test/BetweenWorldz/BetweenWorldz/Intermediate/Concert/Temp/6CB415D34C698FE5DFCBED99D5B854BA.uasset'
+[2021.01.01-19.33.15:660][535]AssetCheck: New page: Asset Save: EnemyBehavior_BD
+[2021.01.01-19.33.15:660][535]LogContentValidation: Display: Validating BlackboardData /Game/Blueprints/Enemies/EnemyBehavior_BD.EnemyBehavior_BD
+[2021.01.01-19.33.15:675][536]LogConcert: Display: Synced activity '4658' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow locked /Game/Blueprints/Enemies/EnemyBehavior_BD.
+[2021.01.01-19.33.15:712][537]LogConcert: Display: Synced activity '4659' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow added package /Game/Blueprints/Enemies/EnemyBehavior_BD.
+[2021.01.01-19.33.15:713][537]LogConcert: Display: Synced activity '4660' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow unlocked /Game/Blueprints/Enemies/EnemyBehavior_BD.
+[2021.01.01-19.33.15:713][537]LogConcert: Display: Synced activity '4661' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow locked /Game/Blueprints/Enemies/EnemyBehavior_BD.
+[2021.01.01-19.33.46:770][ 66]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.01-19.33.52:413][371]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.01-19.33.52:970][372]LogConcert: Display: Synced activity '4662' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow locked /Game/Blueprints/Enemies/SmallMob_BP.
+[2021.01.01-19.33.53:106][376]LogConcert: Display: Synced activity '4663' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow modified SmallMob_BP in /Game/Maps/Level3.
+[2021.01.01-19.34.18:181][989]BlueprintLog: New page: Compile SmallMob_BP
+[2021.01.01-19.34.19:138][989]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2021.01.01-19.34.20:389][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/SmallMob_BP" FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Blueprints/Enemies/SmallMob_BP.uasset" SILENT=true
+[2021.01.01-19.34.20:879][ 39]LogSavePackage: Moving '../../../../test/BetweenWorldz/BetweenWorldz/Saved/SmallMob_BPEB7A6B7D4E518EFAD0D0BEBEB9C08C48.tmp' to '../../../../test/BetweenWorldz/BetweenWorldz/Content/Blueprints/Enemies/SmallMob_BP.uasset'
+[2021.01.01-19.34.21:008][ 39]AssetCheck: New page: Asset Save: SmallMob_BP
+[2021.01.01-19.34.21:008][ 39]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemies/SmallMob_BP.SmallMob_BP
+[2021.01.01-19.34.21:196][ 44]LogConcert: Display: Synced activity '4664' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow saved package /Game/Blueprints/Enemies/SmallMob_BP.
+[2021.01.01-19.34.21:197][ 44]LogConcert: Display: Synced activity '4665' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow unlocked /Game/Blueprints/Enemies/SmallMob_BP.
+[2021.01.01-19.34.30:092][573]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2021.01.01-19.34.30:092][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.01-19.34.32:647][658]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.01-19.34.32:647][658]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.01.01-19.34.32:647][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.01-19.34.50:495][693]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.01.01-19.34.50:496][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.01-19.34.54:948][693]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.01.01-19.34.54:949][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.01-19.35.01:734][761]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.01-19.35.01:734][761]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.01.01-19.35.01:734][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.01-19.35.14:579][925]LogMaterialEditor: Saving and Compiling material lavaAttempt
+[2021.01.01-19.35.22:556][925]LogMaterial: Display: Missing cached shader map for material lavaAttempt, compiling. 
+[2021.01.01-19.35.22:758][925]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.01.01-19.35.22:758][925]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2021.01.01-19.35.22:758][925]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.01.01-19.35.22:758][925]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.01.01-19.35.24:615][925]LogMaterial: Display: Missing cached shader map for material lavaAttempt, compiling. 
+[2021.01.01-19.35.25:432][925]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.01.01-19.35.26:330][925]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.01-19.35.27:561][925]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 51
+[2021.01.01-19.35.27:561][925]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2021.01.01-19.35.27:561][925]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 49
+[2021.01.01-19.35.27:561][925]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2021.01.01-19.35.27:561][925]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 47
+[2021.01.01-19.35.28:122][925]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 46
+[2021.01.01-19.35.28:122][925]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2021.01.01-19.35.28:122][925]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2021.01.01-19.35.28:122][925]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 43
+[2021.01.01-19.35.28:680][925]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2021.01.01-19.35.28:680][925]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2021.01.01-19.35.28:680][925]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2021.01.01-19.35.28:680][925]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2021.01.01-19.35.29:238][925]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2021.01.01-19.35.29:238][925]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2021.01.01-19.35.29:238][925]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2021.01.01-19.35.29:238][925]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2021.01.01-19.35.29:798][925]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2021.01.01-19.35.29:798][925]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2021.01.01-19.35.29:798][925]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2021.01.01-19.35.29:798][925]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.01.01-19.35.29:987][925]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.01.01-19.35.30:093][925]TextureStreamingBuild: Display: Compiling optional shaders took 3.785 seconds.
+[2021.01.01-19.35.30:885][925]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2021.01.01-19.35.32:662][925]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.01.01-19.35.33:781][925]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.01.01-19.35.33:781][925]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.01.01-19.35.34:343][925]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.01.01-19.35.34:343][925]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.01.01-19.35.35:043][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/lavaAttempt" FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Materials/lavaAttempt.uasset" SILENT=true
+[2021.01.01-19.35.35:130][925]LogSavePackage: Moving '../../../../test/BetweenWorldz/BetweenWorldz/Saved/lavaAttempt2C245D1848428BF31D6CD880A32E1076.tmp' to '../../../../test/BetweenWorldz/BetweenWorldz/Content/Materials/lavaAttempt.uasset'
+[2021.01.01-19.35.35:180][925]AssetCheck: New page: Asset Save: lavaAttempt
+[2021.01.01-19.35.35:180][925]LogContentValidation: Display: Validating Material /Game/Materials/lavaAttempt.lavaAttempt
+[2021.01.01-19.35.35:323][925]MaterialEditorStats: Base pass shader: 138 instructions
+[2021.01.01-19.35.35:323][925]MaterialEditorStats: Base pass shader with Surface Lightmap: 165 instructions
+[2021.01.01-19.35.35:323][925]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 212 instructions
+[2021.01.01-19.35.35:323][925]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.01.01-19.35.35:323][925]MaterialEditorStats: Base pass vertex shader: 91 instructions
+[2021.01.01-19.35.35:323][925]MaterialEditorStats: Texture samplers: 5/16
+[2021.01.01-19.35.35:323][925]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.01.01-19.35.35:323][925]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.01-19.35.35:361][926]LogConcert: Display: Synced activity '4666' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow locked /Game/Materials/lavaAttempt.
+[2021.01.01-19.35.35:760][928]LogConcert: Display: Synced activity '4667' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow saved package /Game/Materials/lavaAttempt.
+[2021.01.01-19.35.35:760][928]LogConcert: Display: Synced activity '4668' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow unlocked /Game/Materials/lavaAttempt.
+[2021.01.01-19.35.56:144][ 26]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.01.01-19.35.56:144][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.01-19.36.02:905][ 79]LogSlate: Window 'Message' being destroyed
+[2021.01.01-19.36.02:926][ 79]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/LavaCore_MT.LavaCore_MT
+(Selecting 'No' will cause all changes to be lost!)
+[2021.01.01-19.36.03:679][ 79]LogMaterial: Display: Missing cached shader map for material LavaCore_MT, compiling. 
+[2021.01.01-19.36.03:765][ 79]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.01.01-19.36.03:766][ 79]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.01.01-19.36.03:766][ 79]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.01.01-19.36.03:766][ 79]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.01.01-19.36.03:846][ 79]LogMaterial: Display: Missing cached shader map for material LavaCore_MT, compiling. 
+[2021.01.01-19.36.04:009][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2021.01.01-19.36.04:450][ 79]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2021.01.01-19.36.04:450][ 79]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2021.01.01-19.36.04:450][ 79]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2021.01.01-19.36.04:458][ 79]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.01-19.36.05:023][ 79]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2021.01.01-19.36.05:023][ 79]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2021.01.01-19.36.05:023][ 79]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2021.01.01-19.36.05:023][ 79]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2021.01.01-19.36.05:582][ 79]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2021.01.01-19.36.05:582][ 79]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2021.01.01-19.36.05:582][ 79]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2021.01.01-19.36.05:582][ 79]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2021.01.01-19.36.05:582][ 79]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2021.01.01-19.36.06:140][ 79]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2021.01.01-19.36.06:140][ 79]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2021.01.01-19.36.06:623][ 79]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.01.01-19.36.06:623][ 79]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2021.01.01-19.36.06:623][ 79]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2021.01.01-19.36.06:623][ 79]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.01.01-19.36.06:623][ 79]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.01.01-19.36.06:623][ 79]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.01.01-19.36.06:627][ 79]TextureStreamingBuild: Display: Compiling optional shaders took 2.177 seconds.
+[2021.01.01-19.36.06:712][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.01.01-19.36.07:264][ 79]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.01.01-19.36.07:264][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.01-19.36.09:059][ 80]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.01.01-19.36.09:059][ 80]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.01.01-19.36.09:059][ 80]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.01.01-19.36.09:073][ 80]LogConcert: Display: Synced activity '4669' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow locked /Game/Materials/LavaCore_MT.
+[2021.01.01-19.36.09:134][ 81]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.01.01-19.36.14:920][411]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.01.01-19.36.14:920][411]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.01.01-19.36.14:921][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.01-19.36.41:172][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level3" FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/Level3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.01-19.36.41:347][ 59]LogUObjectHash: Compacting FUObjectHashTables data took  52.47ms
+[2021.01.01-19.36.41:698][ 59]LogSavePackage: Moving '../../../../test/BetweenWorldz/BetweenWorldz/Saved/Level39BD88E86432C24F145F244B0CA61CE83.tmp' to '../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/Level3.umap'
+[2021.01.01-19.36.41:889][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level3_BuiltData" FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/Level3_BuiltData.uasset" SILENT=true
+[2021.01.01-19.36.41:923][ 59]LogSavePackage: Moving '../../../../test/BetweenWorldz/BetweenWorldz/Saved/Level3_BuiltData9A8E360B42E0DA70215696824F9A92F5.tmp' to '../../../../test/BetweenWorldz/BetweenWorldz/Content/Maps/Level3_BuiltData.uasset'
+[2021.01.01-19.36.41:983][ 59]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.01-19.36.41:983][ 59]LogContentValidation: Display: Validating World /Game/Maps/Level3.Level3
+[2021.01.01-19.36.41:983][ 59]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level3_BuiltData.Level3_BuiltData
+[2021.01.01-19.36.42:165][ 63]LogConcert: Display: Synced activity '4670' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow saved package /Game/Maps/Level3.
+[2021.01.01-19.36.42:214][ 64]LogConcert: Display: Synced activity '4671' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow saved package /Game/Maps/Level3_BuiltData.
+[2021.01.01-19.36.45:352][127]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.01.01-19.36.45:461][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/LavaCore_MT" FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Materials/LavaCore_MT.uasset" SILENT=true
+[2021.01.01-19.36.45:510][127]LogSavePackage: Moving '../../../../test/BetweenWorldz/BetweenWorldz/Saved/LavaCore_MT7C38542D4A1E1725134C79B110F3AF36.tmp' to '../../../../test/BetweenWorldz/BetweenWorldz/Content/Materials/LavaCore_MT.uasset'
+[2021.01.01-19.36.45:559][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/EnemyBehavior_BT" FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Blueprints/Enemies/EnemyBehavior_BT.uasset" SILENT=true
+[2021.01.01-19.36.45:565][127]LogSavePackage: Moving '../../../../test/BetweenWorldz/BetweenWorldz/Saved/EnemyBehavior_BT7F0B93204C120B790C4F838F8D38AE10.tmp' to '../../../../test/BetweenWorldz/BetweenWorldz/Content/Blueprints/Enemies/EnemyBehavior_BT.uasset'
+[2021.01.01-19.36.45:566][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemies/EnemyBehavior_BD" FILE="../../../../test/BetweenWorldz/BetweenWorldz/Content/Blueprints/Enemies/EnemyBehavior_BD.uasset" SILENT=true
+[2021.01.01-19.36.45:573][127]LogSavePackage: Moving '../../../../test/BetweenWorldz/BetweenWorldz/Saved/EnemyBehavior_BD3A5979A04A2736E8F3D01AB6D08B40D3.tmp' to '../../../../test/BetweenWorldz/BetweenWorldz/Content/Blueprints/Enemies/EnemyBehavior_BD.uasset'
+[2021.01.01-19.36.45:589][127]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.01-19.36.45:589][127]LogContentValidation: Display: Validating Material /Game/Materials/LavaCore_MT.LavaCore_MT
+[2021.01.01-19.36.45:589][127]LogContentValidation: Display: Validating BlackboardData /Game/Blueprints/Enemies/EnemyBehavior_BD.EnemyBehavior_BD
+[2021.01.01-19.36.45:589][127]LogContentValidation: Display: Validating BehaviorTree /Game/Blueprints/Enemies/EnemyBehavior_BT.EnemyBehavior_BT
+[2021.01.01-19.36.45:735][132]LogConcert: Display: Synced activity '4672' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow saved package /Game/Materials/LavaCore_MT.
+[2021.01.01-19.36.45:735][132]LogConcert: Display: Synced activity '4673' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow unlocked /Game/Materials/LavaCore_MT.
+[2021.01.01-19.36.45:768][133]LogConcert: Display: Synced activity '4674' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow saved package /Game/Blueprints/Enemies/EnemyBehavior_BT.
+[2021.01.01-19.36.45:791][133]LogConcert: Display: Synced activity '4675' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow unlocked /Game/Blueprints/Enemies/EnemyBehavior_BT.
+[2021.01.01-19.36.45:794][133]LogConcert: Display: Synced activity '4676' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow saved package /Game/Blueprints/Enemies/EnemyBehavior_BD.
+[2021.01.01-19.36.45:794][133]LogConcert: Display: Synced activity '4677' produced by endpoint 'E63C7F2B467518F2017392A8138ED983': shadow unlocked /Game/Blueprints/Enemies/EnemyBehavior_BD.
+[2021.01.01-19.37.02:158][497]LogSlate: Window 'Persist & Submit Files' being destroyed
+[2021.01.01-19.37.02:181][497]LogConcert: [Pending] Persisting Session Changes
+[2021.01.01-19.37.02:215][497]LogConcert: [Pending] Persisting Session Changes - See Message Log
+[2021.01.01-19.37.02:215][497]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
